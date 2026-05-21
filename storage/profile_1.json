@@ -1,0 +1,432 @@
+{
+  "Combo55Text": "magia 6",
+  "fugaa3": {
+    "on": false,
+    "min": 0,
+    "text": "fuga",
+    "title": "HP%",
+    "max": 40
+  },
+  "autoHealthItemPanel1": {
+    "min": 0,
+    "max": 60,
+    "item": 266
+  },
+  "fugaa2": {
+    "on": false,
+    "min": 0,
+    "text": "fuga",
+    "title": "HP%",
+    "max": 30
+  },
+  "bijuuTimer": {
+    "active": false,
+    "buff": 0,
+    "cd": 0
+  },
+  "FiltroNpcs": false,
+  "Combo8Text": "magia 9",
+  "Combo6": "magia 6",
+  "Combo11Text": "magia 12",
+  "autoManaItemPanel2": {
+    "min": 0,
+    "max": 60,
+    "item": 268
+  },
+  "listt": [
+
+  ],
+  "_enemy": [
+
+  ],
+  "Combo10Text": "magia 11",
+  "buff3": "buff 3",
+  "Combo1": "magia 1",
+  "Combo2": "magia 2",
+  "Combo10": "magia 10",
+  "buff2": "buff 2",
+  "ingame_hotkeys": "",
+  "UP7": "magia 7",
+  "ComboText": "magia 1",
+  "_macros": {
+    "": false,
+    "UP": false,
+    "Follow Atk": false,
+    "Pot Hallo 95": false,
+    "Combo 2": false,
+    "Bug Map (0)": true,
+    "PotMana Perfect 40": false,
+    "Pot Heal 75": false,
+    "Auto-Escadas": false,
+    "Pot Perfect 60": false,
+    "PotMana 30": false,
+    "?? Clean UI": false,
+    "Potion DeathSkill": false,
+    "Pot Heal 50": false,
+    "Auto Haste": true,
+    "Summon": false,
+    "Combo": false,
+    "Buff": false,
+    "Auto-Pill": false,
+    "Jump Marcacao": false,
+    "Auto-Sense": false,
+    "Idle Mode": false,
+    "Pot Heal 90": false,
+    "Automatic Jump": true
+  },
+  "exiva/senseAdvanced": {
+    "LastTargetKey": "T",
+    "LastSenseKey": "V",
+    "CurrentTarget": "Ballantiiness",
+    "Spell": "Sense"
+  },
+  "alarms": {
+    "playerpk": false,
+    "creatureDetected": false,
+    "enabled": false,
+    "privateMessage": false
+  },
+  "FollowPlayerName": "Nome do player",
+  "autoHasteText": "concentrate chakra feet",
+  "extras": {
+    "debug": false,
+    "killUnder": 30
+  },
+  "UP4": "magia 4",
+  "autoHealthItemPanel2": {
+    "min": 0,
+    "max": 60,
+    "item": 266
+  },
+  "Combo6Text": "magia 7",
+  "Combo7Text": "magia 8",
+  "autojumper": "f",
+  "Combo12": "magia 12",
+  "battleTracking": [
+    0,
+    268438418,
+    [
+
+    ]
+  ],
+  "combat": [
+
+  ],
+  "autoTradeMessage": "hi ",
+  "buff": "buff",
+  "OpenPrivateTabs": true,
+  "FiltroParty": false,
+  "heal": {
+    "on": true,
+    "min": 0,
+    "text": "big regeneration",
+    "title": "HP%",
+    "max": 99
+  },
+  "Combo1Text": "magia 2",
+  "ui": [
+
+  ],
+  "fugaa5": {
+    "on": false,
+    "min": 0,
+    "text": "fuga",
+    "title": "HP%",
+    "max": 40
+  },
+  "UP11": "magia 11",
+  "UP12": "magia 12",
+  "UP3": "magia 3",
+  "Combo8": "magia 8",
+  "jumps": {
+    "savePositions": true,
+    "983,1489,7": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "1000,945,5": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "983,1486,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1026,934,5": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1001,947,4": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "983,1488,5": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1008,940,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1008,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "1003,918,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1004,951,5": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "1004,920,5": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1008,944,7": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "1017,941,7": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1025,932,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1019,941,6": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1001,943,6": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1008,923,6": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    }
+  },
+  "fugaa4": {
+    "on": false,
+    "min": 0,
+    "text": "fuga",
+    "title": "HP%",
+    "max": 40
+  },
+  "Combo7": "magia 7",
+  "UP6": "magia 6",
+  "Combo9Text": "magia 10",
+  "Combo9": "magia 9",
+  "autoManaItemPanel1": {
+    "min": 0,
+    "max": 60,
+    "item": 268
+  },
+  "afkMsg": "MENSAGEM",
+  "autoHelpMessage": "hi",
+  "UP10": "magia 10",
+  "UP5": "magia 5",
+  "timeKitPill": {
+    "t": 0
+  },
+  "UP8": "magia 8",
+  "UP9": "magia 9",
+  "Combo11": "magia 11",
+  "autoSpecial": {
+    "nextTry": 0,
+    "delay": 500,
+    "spell": ""
+  },
+  "maxSummons": 1,
+  "Combo4": "magia 4",
+  "Combo5": "magia 5",
+  "FiltroMobs": false,
+  "summonName": "Nome do summon",
+  "FiltroPlayers": false,
+  "summonSpell": "Jutsu de invocacao",
+  "UP1": "magia 1",
+  "heal2": {
+    "on": false,
+    "min": 0,
+    "text": "regeneration",
+    "title": "HP%",
+    "max": 99
+  },
+  "manatrainer": {
+    "on": false,
+    "min": 0,
+    "text": "powerdown",
+    "title": "mana%",
+    "max": 90
+  },
+  "fugaa": {
+    "on": false,
+    "min": 0,
+    "text": "fuga",
+    "title": "HP%",
+    "max": 20
+  },
+  "UP": "magia em area!",
+  "targetbot": [
+
+  ],
+  "timers": {
+    "time": 1
+  },
+  "autoEatingPanel1": {
+    "items": [
+      3725,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "widgetPos": {
+    "pkTimeWidget": {
+      "x": 418,
+      "y": 157
+    },
+    "deathHud": {
+      "x": 540,
+      "y": 156
+    },
+    "timespellKitPill": {
+      "x": 656,
+      "y": 156
+    },
+    "bijuuHud": {
+      "x": 736,
+      "y": 155
+    }
+  },
+  "Combo2Text": "magia 3",
+  "Combo3Text": "magia 4",
+  "autoAntiParalyzeText": "concentrate chakra feet",
+  "Scriptss": [
+
+  ],
+  "autoEatingPanel2": {
+    "items": [
+      3725,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "_icons": {
+    "tI": {
+      "x": 0.21428571428571,
+      "y": 0.16031537450723
+    },
+    "UP": {
+      "x": 0.50471698113208,
+      "enabled": false,
+      "y": 0.06612685560054
+    },
+    "90": {
+      "x": 0.21,
+      "enabled": false,
+      "y": 0.05
+    },
+    "cleanUI": {
+      "x": 0.01,
+      "enabled": false,
+      "y": 0.05
+    },
+    "Combo 2": {
+      "x": 0.5788409703504,
+      "enabled": false,
+      "y": 0.06612685560054
+    },
+    "Buff": {
+      "x": 0.41172506738544,
+      "enabled": false,
+      "y": 0.06612685560054
+    },
+    "95": {
+      "x": 0.21,
+      "enabled": false,
+      "y": 0.45
+    },
+    "60": {
+      "x": 0.11,
+      "enabled": false,
+      "y": 0.65
+    },
+    "Auto-Escadas": {
+      "x": 0.11,
+      "enabled": false,
+      "y": 0.05
+    },
+    "PotDeath": {
+      "x": 0.59501347708895,
+      "enabled": false,
+      "y": 0.13900134952767
+    },
+    "cI": {
+      "x": 0.21563342318059,
+      "y": 0.10249671484888
+    },
+    "Summon": {
+      "x": 0.44676549865229,
+      "enabled": false,
+      "y": 0.06612685560054
+    },
+    "75": {
+      "x": 0.11,
+      "enabled": false,
+      "y": 0.85
+    },
+    "Combo": {
+      "x": 0.53975741239892,
+      "enabled": false,
+      "y": 0.06612685560054
+    },
+    "Follow": {
+      "x": 0.11,
+      "enabled": false,
+      "y": 0.25
+    },
+    "autopill": {
+      "x": 0.56940700808625,
+      "enabled": false,
+      "y": 0.13495276653171
+    },
+    "30": {
+      "x": 0.21,
+      "enabled": false,
+      "y": 0.25
+    },
+    "jumpIcon": {
+      "x": 0.21428571428571,
+      "enabled": false,
+      "y": 0.78947368421053
+    },
+    "Bug Map (0)": {
+      "x": 0.18530997304582,
+      "enabled": true,
+      "y": 0.79082321187584
+    }
+  },
+  "Combo3": "magia 3",
+  "FiltroSkull": false,
+  "cleanMode": true,
+  "isUsing": false,
+  "_configs": {
+    "cavebot_configs": {
+      "selected": "",
+      "enabled": false
+    },
+    "targetbot_configs": {
+      "selected": "1Task_Up",
+      "enabled": false
+    }
+  },
+  "UP2": "magia 2",
+  "Combo4Text": "magia 5"
+}
